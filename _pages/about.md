@@ -1,4 +1,4 @@
----
+ ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Postdoc researcher at Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology. I am very fortunate to have Professor [Sen Li](https://www.smartcityhkust.com/) as my Postdoc advisor. 
+Previously, I got the PhD degree in Information and Communication Engineering through a joint program between Harbin Institute of Technology and Southern University of Science and Technology, advised by Professor [Linni Jian](https://www.sustech.edu.cn/en/faculties/jianlinni.html).
+I got the Bachelor degree in Electrical Engineering and Automation at China Agricultural University, advised by Professor [Tianjun Jing](https://faculty.cau.edu.cn/jtj_en/list.htm).
 
 A data-driven personal website
 ======
