@@ -1,4 +1,4 @@
- ---
+---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a Postdoc researcher at Department of Civil and Environmental Engineering, The Hong Kong University of Science and Technology. I am very fortunate to have Professor [Sen Li](https://www.smartcityhkust.com/) as my Postdoc advisor. 
 Previously, I got the PhD degree in Information and Communication Engineering through a joint program between Harbin Institute of Technology and Southern University of Science and Technology, advised by Professor [Linni Jian](https://www.sustech.edu.cn/en/faculties/jianlinni.html).
 I got the Bachelor degree in Electrical Engineering and Automation at China Agricultural University, advised by Professor [Tianjun Jing](https://faculty.cau.edu.cn/jtj_en/list.htm).
