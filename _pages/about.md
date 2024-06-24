@@ -14,7 +14,8 @@ I got the Bachelor degree in Electrical Engineering and Automation at China Agri
 
 Research interests
 ======
-My research interests center around Nexus of Transportation, Energy, and Market by EV & Vehicle-to-Grid (V2G) Technology by artificial intelligence (AI), mathematical optimization, and heuristic algorithm to improve the operation performance of transportation electrification
+My research interests center around Nexus of Transportation, Energy, and Market by EV & Vehicle-to-Grid (V2G) Technology by artificial intelligence (AI), mathematical optimization, and heuristic algorithm to improve the operation performance of transportation electrification.
+
 If you want to have a chat, always feel free to contact me through Email!
 
 News
