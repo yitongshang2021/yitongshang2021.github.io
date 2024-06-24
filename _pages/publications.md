@@ -18,14 +18,14 @@ author_profile: true
 -->
 
 
-# Working paper
-======
+Working paper
+=======
 - **Yitong Shang**, Sen Li. Secured Spatial-Temporal Ride-Hailing Traffic Demand Prediction based on Federated Learning and Blockchain: Methodology. IEEE Transactions on Intelligent Transportation Systems, under review.
 - **Yitong Shang**, Sen Li.  Secured Spatial-Temporal Ride-Hailing Traffic Demand Prediction based on Federated Learning and Blockchain: Case Studies. IEEE Transactions on Intelligent Transportation Systems, under review.
 
 
-# Journal paper
-======
+Journal paper
+=======
 - [J16]	**Yitong Shang**, Sen Li. FedPT-V2G: security enhanced federated transformer learning for real-time v2g dispatch with non-iid data. **Applied Energy**, 2024. https://doi.org/10.1016/j.apenergy.2024.122626
 - [J15]	**Yitong Shang**, Zekai Li, Sen Li, Ziyun Shao, Linni Jian. An Information security solution for vehicle-to-grid scheduling by distributed edge computing and federated deep learning. **IEEE Transactions on Industrial Applications**, 2024. 10.1109/TIA.2024.3351960
 - [J14]	Zekai Li, Xiang Lei, **Yitong Shang**, Youwei Jia, Linni Jian. A genuine V2V market mechanism aiming for maximum revenue of each EV owner based on non-cooperative game model. **Journal of Cleaner Production**, 2023. https://doi.org/10.1016/j.jclepro.2023.137586
@@ -44,7 +44,7 @@ author_profile: true
 - [J1] Yanchong Zheng, **Yitong Shang**, Songyan Niu, Ziyun Shao, Linni Jian. A novel real-time scheduling strategy with near-linear complexity for integrating large-scale electric vehicles into smart grid. **Applied Energy**, 2018. https://doi.org/10.1016/j.apenergy.2018.02.084
 
 Conference paper
-======
+=======
 - [C7]	**Yitong Shang**, Zekai Li, Ziyun Shao, Linni Jian. Secure and Efficient V2G Scheme through Edge Computing and Federated Learning. In SPIES. 2022 4th International Conference on Smart Power & Internet Energy Systems. 10.1109/SPIES55999.2022.10082358
 - [C6]	**Yitong Shang**, Zekai Li, Ziyun Shao, Linni Jian. Distributed V2G dispatching via LSTM network within cloud-edge collaboration framework. In I&CPS Asia. 2021 IEEE IAS Industrial and Commercial Power System Asia. 10.1109/ICPSAsia52756.2021.9621448
 - [C5]	**Yitong Shang**, Zekai Li, Ziyun Shao, Linni Jian. ISCP-Data: a vehicle-to-grid dataset for commercial center and its machine learning application. In EI2. 2021 IEEE 5th Conference on Energy Internet and Energy System Integration. 10.1109/EI252483.2021.9713203
