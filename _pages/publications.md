@@ -20,7 +20,7 @@ author_profile: true
 
 **Working paper**
 
-<--!
+<!--
 - **Yitong Shang**, Sen Li. Secured Spatial-Temporal Ride-Hailing Traffic Demand Prediction based on Federated Learning and Blockchain: Methodology. IEEE Transactions on Intelligent Transportation Systems, under review.
 - **Yitong Shang**, Sen Li.  Secured Spatial-Temporal Ride-Hailing Traffic Demand Prediction based on Federated Learning and Blockchain: Case Studies. IEEE Transactions on Intelligent Transportation Systems, under review.
 -->
