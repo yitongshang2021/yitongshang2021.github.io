@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yitong / Dr."
+title                    : "Yitong Shang/ Dr."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
