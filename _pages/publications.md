@@ -18,13 +18,13 @@ author_profile: true
 -->
 
 
-Working paper
+# Working paper
 ======
 - **Yitong Shang**, Sen Li. Secured Spatial-Temporal Ride-Hailing Traffic Demand Prediction based on Federated Learning and Blockchain: Methodology. IEEE Transactions on Intelligent Transportation Systems, under review.
 - **Yitong Shang**, Sen Li.  Secured Spatial-Temporal Ride-Hailing Traffic Demand Prediction based on Federated Learning and Blockchain: Case Studies. IEEE Transactions on Intelligent Transportation Systems, under review.
 
 
-Journal paper
+# Journal paper
 ======
 - [J16]	**Yitong Shang**, Sen Li. FedPT-V2G: security enhanced federated transformer learning for real-time v2g dispatch with non-iid data. **Applied Energy**, 2024. https://doi.org/10.1016/j.apenergy.2024.122626
 - [J15]	**Yitong Shang**, Zekai Li, Sen Li, Ziyun Shao, Linni Jian. An Information security solution for vehicle-to-grid scheduling by distributed edge computing and federated deep learning. **IEEE Transactions on Industrial Applications**, 2024. 10.1109/TIA.2024.3351960
