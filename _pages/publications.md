@@ -42,3 +42,11 @@ Journal paper
 
 Conference paper
 ======
+- [C7]	**Yitong Shang**, Zekai Li, Ziyun Shao, Linni Jian. Secure and Efficient V2G Scheme through Edge Computing and Federated Learning. In SPIES. 2022 4th International Conference on Smart Power & Internet Energy Systems. 10.1109/SPIES55999.2022.10082358
+- [C6]	**Yitong Shang**, Zekai Li, Ziyun Shao, Linni Jian. Distributed V2G dispatching via LSTM network within cloud-edge collaboration framework. In I&CPS Asia. 2021 IEEE IAS Industrial and Commercial Power System Asia. 10.1109/ICPSAsia52756.2021.9621448
+- [C5]	**Yitong Shang**, Zekai Li, Ziyun Shao, Linni Jian. ISCP-Data: a vehicle-to-grid dataset for commercial center and its machine learning application. In EI2. 2021 IEEE 5th Conference on Energy Internet and Energy System Integration. 10.1109/EI252483.2021.9713203
+- [C4]	Zekai Li, **Yitong Shang**, Ziyun Shao, Linni Jian. A novel V2V charging mechanism based on bargain model within the scheme of internet of smart charging points. In EI2. 2021 IEEE Conference on Energy Internet and Energy System Integration. 10.1109/EI252483.2021.9713351
+- [C3]	Hang Yu, **Yitong Shang**, Ziyun Shao, Linni Jian. A reconfigurable hybrid AC/DC microgrid clustering architecture with decentralized control for coordinated operation. In EI2. 2021 IEEE Conference on Energy Internet and Energy System Integration. 10.1109/EI252483.2021.9713169
+- [C2]	Yanchong Zheng, Ziyun Shao, **Yitong Shang**, Linni Jian. Distributed charging control of smart electric vehicle chargers for load valley filling in distribution networks.  In VPPC. 2019 IEEE Vehicle Power and Propulsion Conference. 10.1109/VPPC46532.2019.8952459
+- [C1]	**Yitong Shang**, Yanchong Zheng, Ziyun Shao, Linni Jian. A user independent choice charging strategy for electric vehicle in household smart micro-grid. In ICIA. 2017 IEEE International Conference on Information and Automation. 10.1109/ICInfA.2017.8079035
+
