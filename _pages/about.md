@@ -14,7 +14,15 @@ I earned my Bachelor's degree in Electrical Engineering and Automation from Chin
 
 Research interests
 ======
-My research interests center around Nexus of Transportation, Energy, and Market by EV & Vehicle-to-Grid (V2G) Technology by artificial intelligence (AI), mathematical optimization, and heuristic algorithm to improve the operation performance of transportation electrification.
+My scholarly pursuits are concentrated at the Nexus of 
+- Transportation,
+- Energy, 
+- and Market,
+facilitated by Electric Vehicle (EV) and Vehicle-to-Grid (V2G) technologies.
+
+These interests are further advanced through the deployment of machine learning, mathematical optimization, and heuristic algorithm. 
+
+The overarching goal is to amplify the operational performance of transportation electrification, which in turn significantly improves the efficiency and sustainability of urban infrastructure in smart cities.
 
 If you want to have a chat, always feel free to contact me through Email!
 
