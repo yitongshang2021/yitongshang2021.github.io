@@ -18,6 +18,7 @@ My scholarly pursuits are concentrated at the Nexus of
 - Transportation,
 - Energy, 
 - and Market,
+
 facilitated by Electric Vehicle (EV) and Vehicle-to-Grid (V2G) technologies.
 
 These interests are further advanced through the deployment of machine learning, mathematical optimization, and heuristic algorithm. 
