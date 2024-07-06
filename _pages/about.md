@@ -25,7 +25,7 @@ These interests are further advanced through the deployment of machine learning,
 
 The overarching goal is to amplify the operational performance of transportation electrification, which in turn significantly improves the efficiency and sustainability of urban infrastructure in smart cities.
 
-If you want to have a chat, always feel free to contact me through Email!
+If you want to have a chat, always feel free to contact me through Email (ytshang@ust.hk).
 
 News
 ======
